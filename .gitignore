@@ -1,0 +1,25 @@
+# Virtual environments
+.venv/
+.venv-1/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Jupyter
+*.ipynb_checkpoints
+
+# Environment variables / secrets
+.env
+.env.*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
