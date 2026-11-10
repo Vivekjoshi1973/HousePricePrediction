@@ -2,6 +2,8 @@
 
 A machine learning project that predicts house sale prices from property features. It includes an exploratory training notebook, a saved Random Forest model, and a Streamlit web app for making predictions.
 
+**Live Demo:** [https://housepriceprediction-v.streamlit.app/](https://housepriceprediction-v.streamlit.app/)
+
 ## Project Structure
 
 ```
@@ -44,6 +46,8 @@ streamlit run Streamlit_App/app.py
 ```
 
 Then open the local URL shown in the terminal (default `http://localhost:8501`), fill in the house details, and click **Predict Price**.
+
+Or use the hosted app directly: [https://housepriceprediction-v.streamlit.app/](https://housepriceprediction-v.streamlit.app/)
 
 ## Model
 
